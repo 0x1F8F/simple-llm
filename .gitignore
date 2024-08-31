@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 *.jupyter_ystore.db
 *cache.*
+tmp.*
